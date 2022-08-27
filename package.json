@@ -9,6 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@metamask/onboarding": "^1.0.1",
+    "@nextui-org/react": "^1.0.0-beta.10",
+    "eth-sig-util": "^3.0.1",
+    "ethereumjs-util": "^7.1.5",
+    "ethers": "^5.7.0",
     "next": "12.2.5",
     "react": "18.2.0",
     "react-dom": "18.2.0"
